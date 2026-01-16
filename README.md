@@ -15,8 +15,7 @@ A lightweight, interactive browser game built with vanilla JavaScript. The compu
 ## 🚀 Live Demo
 
 You can play the game directly in your browser here:
-**[Insert your GitHub Pages Link Here]**
-_(e.g., https://salilpal.github.io/your-repo-name/)_
+**[https://salilpal.github.io/training-day4/]**
 
 ## 🛠️ Technologies Used
 
